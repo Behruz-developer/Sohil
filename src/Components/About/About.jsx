@@ -16,7 +16,6 @@ const About = () => {
     <div className="about">
       <div className="container">
         <div className="about_box">
-
           <div className="about_card_left" data-aos="fade-right" data-aos-offset="-50">
             <img className="about_card_left_img" src={universal} alt="" />
             <div className="about_map_text">
