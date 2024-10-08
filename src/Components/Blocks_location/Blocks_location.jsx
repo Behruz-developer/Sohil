@@ -1,6 +1,6 @@
 /* eslint-disable react/no-unescaped-entities */
 
-import universal from "../../assets/images/majmua.png";
+import universal from "../../assets/images/slider-1.jpg";
 
 const Blocks_location = () => {
   return (
