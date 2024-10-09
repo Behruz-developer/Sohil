@@ -9,7 +9,7 @@ const Location = () => {
           <div className="location_card1" data-aos="fade-right" data-aos-offset="-200">
             <h3 className="location_title">Joylashgan o`rni</h3>
             <p className="location_text">
-              Sohil turar joy majmuasi Samarqand shahrining rivojlangan va strategik jihatdan muhim qismida joylashgan. Majmua shahar markaziga yaqin bo‘lib, asosiy transport yo‘llariga oson kirish imkoniyatini taqdim etadi. </p>
+              Sohil turar-joy majmuasi Samarqand shahrining rivojlangan va strategik jihatdan muhim qismida joylashgan. Majmua shahar markaziga yaqin bo‘lib, asosiy transport yo‘llariga oson kirish imkoniyatini taqdim etadi. </p>
             <p className="location_text">
               Ushbu joy shahar shovqin-suronidan xoli, osoyishta va ekologik jihatdan toza muhitda joylashgan. Bu yerda yashovchilar tabiatning go‘zalligidan bahramand bo‘lib, tinch va farovon hayot kechirish imkoniyatiga ega bo‘lishadi.</p>
           </div>
