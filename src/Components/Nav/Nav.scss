@@ -68,22 +68,22 @@
     }
 
     &_logo {
-        width: 220px;
+        width: 200px;
 
         @include media(1450px) {
-            width: 200px;
-        }
-
-        @include media(1380px) {
             width: 180px;
         }
 
-        @include media(800px) {
+        @include media(1380px) {
             width: 160px;
         }
 
-        @include media(600px) {
+        @include media(800px) {
             width: 140px;
+        }
+
+        @include media(600px) {
+            width: 120px;
         }
     }
 
