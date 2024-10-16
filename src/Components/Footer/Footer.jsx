@@ -14,7 +14,7 @@ const Footer = () => {
       <div className="footer_box">
         <div className="footer_card2">
           <div className="map_box" >
-          <iframe className="map_container" src="https://yandex.com/map-widget/v1/?um=constructor%3Aea0194114aebadbf6cc97846dc2c8f50bccac17d6bcae784d0130cf54885b895&amp;source=constructor" width="823" height="541" frameborder="0"></iframe>
+            <iframe className="map_container" src="https://yandex.com/map-widget/v1/?um=constructor%3Aea0194114aebadbf6cc97846dc2c8f50bccac17d6bcae784d0130cf54885b895&amp;source=constructor" width="823" height="541" frameborder="0"></iframe>
           </div>
         </div>
         <div className="footer_card1">
@@ -37,7 +37,7 @@ const Footer = () => {
                 Sotuv bo‘limi
               </div>
               <p className="footer_location_text">
-                Samarqand t, O'zbekkenti mahallasi
+                Samarqand tumani Oʻzbekkenti mahallasi
               </p>
             </div>
             <div className="footer_social">

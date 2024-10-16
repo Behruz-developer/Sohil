@@ -32,9 +32,11 @@ const Blocks_location = () => {
           <div className="blocks_location_card_text">
             <h2 className="blocks_location_title">Majmua arxitekturasi</h2>
             <p className="blocks_location_text">
-              Sohil turar-joy majmuasi Samarqand shahrida zamonaviy arxitektura va innovatsion dizaynni birlashtirgan loyiha hisoblanadi.</p>
+              Sohil turar-joy majmuasi Samarqand shahrida zamonaviy arxitektura va innovatsion dizaynni birlashtirgan loyiha hisoblanadi.
+            </p>
             <p className="blocks_location_text">
-              Majmua arxitekturasi zamonaviy dizayn tamoyillariga asoslanib, eng so'nggi qurilish materiallari va texnologiyalaridan foydalangan holda yaratilgan. Har bir bino nafaqat estetik jihatdan jozibali, balki ko'plab funksional talablarga ham javob beradi, bu esa yashovchilarga qulay va farovon hayot taqdim etadi.</p>
+              Majmua arxitekturasi zamonaviy dizayn tamoyillariga asoslanib, eng soʻnggi qurilish materiallari va texnologiyalaridan foydalangan holda yaratilgan. Har bir bino nafaqat estetik jihatdan jozibali, balki koʻplab funksional talablarga ham javob beradi, bu esa yashovchilarga qulay va farovon hayot taqdim etadi.
+            </p>
           </div>
 
 

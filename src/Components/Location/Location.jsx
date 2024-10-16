@@ -18,7 +18,7 @@ const Location = () => {
           </div>
           <div className="location_card2" data-aos="fade-right" data-aos-offset="-200">
             <p className="location_text2">
-              Sohil - Samarqandda sarmoya kiritish uchun juda foydali imkoniyat sifatida ajralib turadi. Bir necha yil ichida uy-joylar narxining oshishi kutilmoqda, bu esa investorlar uchun qo'shimcha foyda manbai bo'lishi mumkin. Bu loyiha orqali nafaqat qulay yashash joyiga ega bo'lish, balki muvaffaqiyatli sarmoya qilish imkoniyatini ham qo'lga kiritasiz.
+              Sohil — Samarqandda sarmoya kiritish uchun juda foydali imkoniyat sifatida ajralib turadi. Bir necha yil ichida uy-joylar narxining oshishi kutilmoqda, bu esa investorlar uchun qoʻshimcha foyda manbai boʻlishi mumkin. Bu loyiha orqali nafaqat qulay yashash joyiga ega boʻlish, balki muvaffaqiyatli sarmoya qilish imkoniyatini ham qoʻlga kiritasiz.
             </p>
           </div>
         </div>
