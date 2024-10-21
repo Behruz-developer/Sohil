@@ -222,7 +222,7 @@
     &_card_left {
         position: relative;
         grid-row: span 3;
-        max-height: 560px;
+        max-height: 600px;
 
         @include media(1000px) {
             // max-height: 400px;

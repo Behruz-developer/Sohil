@@ -50,7 +50,7 @@ const Upcoming = ({ images }) => {
                           className="slidet_text"
                           key={`navimage${index + 1}`}
                         >
-                          Oilangiz bilan orzudagi hayotga qadam qo‘ying
+                          Oilangiz bilan orzudagi <br /> hayotga qadam qo‘ying
                         </h3>
                         <p className="slidet_text2">
                           Sohil — Samarqandda barpo etilayotgan zamonaviy turar-joy majmuasi boʻlib, unda oilangiz bilan xavfsiz va xotirjam hayot kechirish uchun barcha imkoniyatlar mavjud.
